@@ -1,4 +1,4 @@
-#PASSWORD GENERATOR
+# PASSWORD GENERATOR
 
 ## How to run
 
